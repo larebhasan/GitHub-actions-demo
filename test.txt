@@ -1,3 +1,7 @@
 this is a text testing file
+<<<<<<< HEAD
 
 Did my local see any change?
+=======
+WHat if I make changes from GitHub itself?
+>>>>>>> 7090aea01f69174681bda88988dc59fb37e014df
