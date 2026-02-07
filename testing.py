@@ -1,1 +1,1 @@
-This testing.py file is not empty
+print("Hello, World!")
